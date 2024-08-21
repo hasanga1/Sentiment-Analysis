@@ -5,9 +5,7 @@
 
 ## Screenshots
 
-**Generated Images for Handwritten Digits MNIST Dataset**
 
-**Generated Images for Fashion MNIST Dataset**
 ## Introduction
 
 This project is a sentiment analysis tool that classifies product reviews as positive or negative. The tool was built using a machine learning model trained on a dataset of tweets, and it is deployed as a web application using Flask.
