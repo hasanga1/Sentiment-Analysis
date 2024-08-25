@@ -4,7 +4,7 @@
 
 
 ## Screenshots
-
+<img width="1440" alt="Screenshot 2024-08-19 at 06 26 43 (2)" src="https://github.com/user-attachments/assets/4fd89944-d3c2-4428-ac40-31b4a04f7082">
 
 ## Introduction
 
